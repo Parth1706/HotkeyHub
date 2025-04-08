@@ -122,7 +122,7 @@ def perform_action(button):
 
 # GUI Setup
 root = tk.Tk()
-root.title("MACROPAD - A Reprogrammable Keyboard")
+root.title("HOTKEYHUB - A Reprogrammable Keyboard")
 root.geometry("800x500")
 root.configure(bg='#1E1E1E')
 
